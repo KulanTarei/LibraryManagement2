@@ -55,6 +55,6 @@ This project uses only **in-memory collections** (no database needed) and provid
 ---
 
 ## Author
-- [Kulan Tarei]
+- Kulan Tarei
 - Date: September 2025
 ---
